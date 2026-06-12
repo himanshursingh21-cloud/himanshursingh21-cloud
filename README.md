@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Himanshu Singh 👋
 
-<!--
-**himanshursingh21-cloud/himanshursingh21-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Engineering student at Sitare University.
 
-Here are some ideas to get you started:
+### 🏆 GSSoc 2025 Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/gssoc-badge-rising_star (1).png" width="100" alt="Rising Star">
+<img src="assets/gssoc-badge-bounty_master.png" width="100" alt="Bounty Master">
+<img src="assets/gssoc-badge-first_steps (1).png" width="100" alt="First Steps">
+<img src="assets/gssoc-badge-point_scorer.png" width="100" alt="Point Scorer">
+<img src="assets/gssoc-badge-bounty_hunter.png" width="100" alt="Bounty Hunter">
+<img src="assets/gssoc-badge-role_contributor (1).png" width="100" alt="Code Warrior">
+
+---
+### 🛠 Tech Stack
+* **Languages:** Python, C++
+* **Areas of Focus:** Competitive Programming, Data Structures & Algorithms (DSA)
